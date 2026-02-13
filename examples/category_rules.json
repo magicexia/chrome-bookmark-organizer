@@ -1,0 +1,61 @@
+{
+  "_comment": "Custom classification rules for Chrome Bookmark Organizer",
+  "_usage": "Copy this file to the project root and customize the categories and keywords",
+  "_note": "Keywords are case-insensitive and match against both URL and bookmark name",
+
+  "Technology": [
+    "github", "stackoverflow", "tech", "programming", "code", "developer",
+    "python", "javascript", "java", "ruby", "golang", "rust",
+    "api", "framework", "library", "docker", "kubernetes", "aws",
+    "tutorial", "documentation", "docs"
+  ],
+
+  "Entertainment": [
+    "youtube", "netflix", "hulu", "disney", "twitch", "spotify",
+    "movie", "film", "music", "video", "gaming", "game",
+    "steam", "playstation", "xbox", "nintendo"
+  ],
+
+  "News & Media": [
+    "news", "bbc", "cnn", "nytimes", "reuters", "bloomberg",
+    "medium", "blog", "article", "magazine", "journal",
+    "press", "media"
+  ],
+
+  "Education": [
+    "learn", "course", "tutorial", "mooc", "coursera", "edx",
+    "udemy", "khan", "education", "study", "university",
+    ".edu", "scholar", "academic", "lecture"
+  ],
+
+  "Tools & Utilities": [
+    "tool", "utility", "converter", "generator", "calculator",
+    "editor", "chrome", "extension", "plugin", "productivity",
+    "workflow", "automation"
+  ],
+
+  "Shopping": [
+    "amazon", "ebay", "shop", "store", "buy", "shopping",
+    "alibaba", "etsy", "walmart", "target", "cart"
+  ],
+
+  "Social Media": [
+    "facebook", "twitter", "instagram", "linkedin", "reddit",
+    "tiktok", "pinterest", "social", "community", "forum"
+  ],
+
+  "Books & Reading": [
+    "book", "library", "reading", "goodreads", "kindle",
+    "ebook", "pdf", "literature", "author", "novel"
+  ],
+
+  "Health & Fitness": [
+    "health", "fitness", "exercise", "workout", "nutrition",
+    "diet", "medical", "doctor", "wellness", "yoga"
+  ],
+
+  "Finance": [
+    "bank", "finance", "invest", "trading", "crypto",
+    "bitcoin", "stock", "market", "money", "budget"
+  ]
+}
