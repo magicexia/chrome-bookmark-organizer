@@ -270,33 +270,4 @@ If you find this tool useful, please consider giving it a star!
 
 ## 🤖 About AI Development
 
-This project is a demonstration of **full-stack AI software development**. Every aspect was created through collaboration between a human and Claude AI:
-
-### What AI Developed:
-- ✅ **Complete Python codebase** - Main organizer script with 430+ lines
-- ✅ **Shell scripts** - Import wizard and verification tools
-- ✅ **Comprehensive documentation** - 4 detailed guides (Installation, Usage, Troubleshooting, Customization)
-- ✅ **Project structure** - README, LICENSE, .gitignore, contributing guidelines
-- ✅ **Privacy safeguards** - Automated privacy verification script
-- ✅ **Iterative optimization** - From 64% to 95% classification accuracy through testing and refinement
-
-### Development Process:
-1. **Requirements gathering** - Understanding user needs for bookmark organization
-2. **Initial implementation** - Creating the first working version
-3. **Iterative refinement** - Testing with real data, identifying issues, improving accuracy
-4. **Feature expansion** - Adding safety features, backups, cloud sync support
-5. **Documentation** - Creating comprehensive guides for users
-6. **Open source packaging** - Privacy removal, generalization, GitHub preparation
-
-### AI Development Highlights:
-- 🔄 **Iterative problem-solving** - Detected and fixed Chrome sync conflicts through testing
-- 📊 **Data-driven optimization** - Analyzed real bookmark patterns to improve categorization
-- 🛡️ **Privacy-first design** - Automatically removed all personal data for open source release
-- 📚 **Documentation focus** - Created user-friendly guides covering all use cases
-- 🧪 **Testing mindset** - Built verification tools to ensure quality and safety
-
-This project showcases how AI can handle complete software development lifecycles, from concept to deployment-ready code, while maintaining quality, safety, and usability standards.
-
----
-
-**Made with ❤️ by AI for bookmark organization enthusiasts**
+This project is a demonstration of **full-stack AI software development**. Every aspect was created through collaboration between a human and Claude AI
